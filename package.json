@@ -1,5 +1,5 @@
 {
-  "name": "turf-featureCollection",
+  "name": "turf-featurecollection",
   "version": "0.1.0",
   "description": "turf featureCollection module",
   "main": "index.js",
