@@ -8,7 +8,6 @@ var p1 = point(0,0, {name: 'first point'}),
     p3 = point(10,10),
     p4 = point(10,0);
 
-
 var suite = new Benchmark.Suite('turf-featurecollection');
 suite
   .add('turf-featurecollection',function () {
