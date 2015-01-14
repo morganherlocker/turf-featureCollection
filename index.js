@@ -13,10 +13,8 @@
  * //=fc
  */
 module.exports = function(features){
-  var fc = {
+  return {
     "type": "FeatureCollection",
     "features": features
   };
-
-  return fc;
 }
