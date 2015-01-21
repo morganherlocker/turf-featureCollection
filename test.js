@@ -5,10 +5,10 @@ var point = require('turf-point');
 test('featureCollection', function(t){
   t.plan(7);
 
-  var p1 = point(0,0, {name: 'first point'}),
-        p2 = point(0,10),
-        p3 = point(10,10),
-        p4 = point(10,0);
+  var p1 = point([0,0], {name: 'first point'}),
+        p2 = point([0,10]),
+        p3 = point([10,10]),
+        p4 = point([10,0]);
   var fc = featureCollection([p1,p2,p3,p4]);
 
   t.ok(fc);
