@@ -2,6 +2,7 @@
  * Takes one or more {@link Feature|Features} and creates a {@link FeatureCollection}
  *
  * @module turf/featurecollection
+ * @category helper
  * @param {Feature} features input Features
  * @returns {FeatureCollection} a FeatureCollection of input features
  * @example
