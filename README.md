@@ -7,14 +7,14 @@ turf featureCollection module
 
 ### `turf.featurecollection(features)`
 
-Takes one or more Feature|Features and creates a FeatureCollection
+Takes one or more Feature|Features and creates a FeatureCollection.
 
 
 ### Parameters
 
 | parameter  | type    | description    |
 | ---------- | ------- | -------------- |
-| `features` | Feature | input Features |
+| `features` | Feature | input features |
 
 
 ### Example
@@ -47,4 +47,5 @@ $ npm install turf-featurecollection
 ```sh
 $ npm test
 ```
+
 
