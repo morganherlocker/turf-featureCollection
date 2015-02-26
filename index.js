@@ -1,5 +1,5 @@
 /**
- * Takes one or more {@link Feature|Features} and creates a {@link FeatureCollection}
+ * Takes one or more {@link Feature|Features} and creates a {@link FeatureCollection}.
  *
  * @module turf/featurecollection
  * @category helper
