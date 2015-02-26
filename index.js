@@ -3,8 +3,8 @@
  *
  * @module turf/featurecollection
  * @category helper
- * @param {Feature<(Point|LineString|Polygon)>} features input features
- * @returns {FeatureCollection<(Point|LineString|Polygon)>} a FeatureCollection of input features
+ * @param {Feature} features input features
+ * @returns {FeatureCollection} a FeatureCollection of input features
  * @example
  * var features = [
  *  turf.point([-75.343, 39.984], {name: 'Location A'}),
