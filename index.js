@@ -16,7 +16,7 @@
  *
  * //=fc
  */
-module.exports = function(features){
+module.exports = function(features) {
   return {
     type: "FeatureCollection",
     features: features
