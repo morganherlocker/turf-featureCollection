@@ -3,7 +3,7 @@
  *
  * @module turf/featurecollection
  * @category helper
- * @param {Feature} features input features
+ * @param {Feature[]} features input features
  * @returns {FeatureCollection} a FeatureCollection of input features
  * @example
  * var features = [

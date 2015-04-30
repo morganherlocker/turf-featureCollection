@@ -7,14 +7,14 @@ turf featureCollection module
 
 ### `turf.featurecollection(features)`
 
-Takes one or more Feature|Features and creates a FeatureCollection.
+Takes an array of one or more Feature|Features and creates a FeatureCollection.
 
 
 ### Parameters
 
-| parameter  | type    | description    |
-| ---------- | ------- | -------------- |
-| `features` | Feature | input features |
+| parameter  | type               | description    |
+| ---------- | ------------------ | -------------- |
+| `features` | Array\.\<Feature\> | input features |
 
 
 ### Example
